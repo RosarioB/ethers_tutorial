@@ -1,4 +1,5 @@
 # ethers_tutorial
+This is the source code of this [Youtube video](https://youtu.be/C0QV3SfJCBE). 
 
 # Setup
 In the root project create a file `.env` with:
